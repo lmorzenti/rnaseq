@@ -106,8 +106,6 @@ vsd <- vst(dds, blind=TRUE)
 plotPCA(vsd, intgroup="condition")
 ```
 
-NOTE!!: for some reason, knitting this file to an html is changing the graphs I made! I am assuming that you are reading this on the html file so below this text is what the graph I made and wrote about looks like in the r markdown file! I don't know what is happening or why things are changing 
-
 
 
 # Heatmap of sample-to-sample distances
